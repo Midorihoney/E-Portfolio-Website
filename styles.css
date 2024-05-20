@@ -404,7 +404,6 @@ footer {
 }
 
 .footer__social--link {
-  width: 100%;
   display: flex;
   justify-content: space-around;
   margin-bottom: 28px;
